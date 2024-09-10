@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" class="str0" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="f" horiz-adv-x="277" d="M86.9996 0l0 451.001 -78.0012 0 0 67.9994 78.0012 0 0 55.0003c0,34.8315 2.99725,60.6647 9.17001,77.4995 8.49662,22.6643 23.166,41.1693 44.4967,55.3304 21.1656,14.1676 50.9995,21.1722 89.3366,21.1722 24.8297,0 52.1615,-3.00386 82.167,-8.83332l-13.1708 -77.0043c-18.3334,3.1689 -35.4983,4.83258 -51.8314,4.83258 -26.665,0 -45.5002,-5.66441 -56.6705,-16.9998 -10.9987,-11.3288 -16.4981,-32.4945 -16.4981,-63.4969l0 -47.5005 101.002 0 0 -67.9994 -99.9987 0 0 -451.001 -88.0031 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke-width:5.03;stroke-miterlimit:22.9256}
+    .str2 {stroke:black;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:black;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+    .fnt0 {font-weight:normal;font-size:1514.72px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1.39412 0 0 1 -4006.69 -10475.3)">
+   <text x="10500" y="14850"  class="fil0 str1 fnt0">f</text>
+  </g>
+  <g id="_2664951048880">
+   <ellipse class="fil1 str1" cx="42433.33" cy="8963" rx="1433.34" ry="1492"/>
+   <path class="fil0" d="M42904.7 9563.9c-13.64,28.33 -35.99,69.47 -66.62,122.66 -78.13,51.44 -164.42,83.24 -259.32,96.18 -467.77,-223.26 -736.67,-771.03 -853.35,-1239.31 47.73,-81.44 110.1,-147.99 188.01,-199.75 29.96,-6.04 77.35,-10.82 141.73,-13.57l166.22 288.83 -84.05 189.34c0.79,66.97 13.31,126.2 38.68,177.92 11.63,25.37 44.94,78 99.49,157.22 61.03,88.63 119.94,140.92 176.28,156.21 25.15,7.51 105.52,8.86 241.33,4.38l211.6 259.89z"/>
+   <path class="fil1 str2" d="M42361.74 8540.22c10.34,-1.02 20.88,-1.54 31.54,-1.54 163.4,0 295.85,122.18 295.85,272.88 0,36.19 -7.65,70.72 -21.51,102.32"/>
+   <path class="fil1 str2" d="M42446.79 8636.9c4.97,-0.49 10.03,-0.74 15.16,-0.74 78.49,0 142.12,58.69 142.12,131.09 0,17.38 -3.68,33.97 -10.33,49.15"/>
+   <path class="fil1 str2" d="M42315.46 8470.85c13.79,-1.35 27.85,-2.05 42.06,-2.05 217.93,0 394.6,162.95 394.6,363.94 0,48.27 -10.21,94.32 -28.7,136.47"/>
+  </g>
+ </g>
+</svg>

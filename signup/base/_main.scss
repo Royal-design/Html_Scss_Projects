@@ -1,0 +1,180 @@
+* {
+    &::after,
+    &::before {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(191, 220, 248);
+    position: relative;
+}
+
+.container {
+    width: 25rem;
+    height: 53rem;
+    background-color: #fff;
+    border-radius: 2.5rem;
+    &__a {
+        margin-top: 6rem;
+        margin-left: 17rem;
+    }
+    &__iconbox {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1rem;
+        color: white;
+    }
+    &__icon {
+        margin-right: 5px;
+        &-color {
+            position: relative;
+            color: transparent;
+        }
+        &-battery {
+            height: 7px;
+            width: 1.1rem;
+            background-image: linear-gradient(90deg, orange 0%, orange 70%, transparent 30%);
+            border: 1px solid white;
+            position: absolute;
+            border-radius: 1px;
+            top: 1px;
+            left: -1px;
+            &::after {
+                content: "";
+                position: absolute;
+                height: 3.5px;
+                width: 0.2rem;
+                background-color: white;
+                transform: translate(-50%, -50%);
+                left: 110%;
+                top: 50%;
+            }
+        }
+    }
+    &__text {
+        font-family: sans-serif;
+        font-size: 1.2rem;
+    }
+    &__b {
+        position: absolute;
+        top: 7%;
+        left: 40%;
+    }
+    &__box {
+        width: 25rem;
+        height: 37rem;
+        border-radius: 2.5rem;
+        background-color: rgb(7, 1, 17);
+        text-align: center;
+        &-b {
+            height: 44rem;
+        }
+    }
+    &__logo {
+        width: 6rem;
+        margin: auto;
+        margin-top: 1rem;
+    }
+    &__icon {}
+    &__socialmedia {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 4rem;
+        &-b {
+            margin-bottom: 2rem;
+        }
+        &-icon {
+            &:visited,
+            &:link {
+                font-size: 1.5rem;
+                color: black;
+                font-weight: 1200;
+            }
+            &-b {
+                &:visited,
+                &:link {
+                    color: white;
+                }
+            }
+        }
+    }
+    &__cta {
+        &-b {
+            margin-top: -1rem;
+        }
+        &-text {
+            margin-top: 6rem;
+            text-align: center;
+            color: black;
+            font-family: sans-serif;
+            position: relative;
+            &::after {
+                content: "";
+                height: 2px;
+                width: 8rem;
+                background-color: black;
+                position: absolute;
+                transform: translate(-50%, -50%);
+                left: 50%;
+                top: 3rem;
+            }
+        }
+        &-link {
+            &:visited,
+            &:link {
+                text-transform: uppercase;
+                text-decoration: none;
+                color: black;
+                font-weight: bolder;
+            }
+        }
+    }
+}
+
+.form {
+    &__group {
+        margin-top: 4rem;
+    }
+    &__input {
+        padding: 0.7rem 2rem;
+        border: none;
+        background-color: white;
+        border-radius: 2rem;
+        margin-bottom: 2rem;
+        &::placeholder {
+            font-size: 1rem;
+        }
+    }
+    &__label {
+        position: relative;
+        display: block;
+        &-span {
+            color: orange;
+            position: absolute;
+            top: -1.5rem;
+            right: 3rem;
+            font-family: arial;
+            font-size: 1rem;
+        }
+    }
+    &__login {
+        border: none;
+        padding: 0.7rem 3rem;
+        text-align: center;
+        border-radius: 3rem;
+        color: white;
+        font-family: arial;
+        border: 2px solid orange;
+        background-color: transparent;
+        margin-top: 2rem;
+    }
+}
